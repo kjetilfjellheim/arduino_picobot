@@ -1,0 +1,36 @@
+// Do not remove the include below
+#include "MoveAlongLine.h"
+#include <Arduino.h>
+
+const int redLED = 9;
+const int leftLineSensor = A6;
+const int rightLineSensor = A7;
+
+const int leftMotor = 2;
+const int leftPWMMotor = 3;
+const int rightMotor = 4;
+const int rightPWMMotor = 5;
+
+
+//The setup function is called once at startup of the sketch
+void setup()
+{
+	Serial.begin(9600);
+	pinMode(redLED, OUTPUT);
+	pinMode(leftMotor, OUTPUT);
+	pinMode(leftPWMMotor, OUTPUT);
+	pinMode(rightMotor, OUTPUT);
+	pinMode(rightPWMMotor, OUTPUT);
+}
+
+// The loop function is called in an endless loop
+void loop()
+{
+	digitalWrite(redLED);
+	int leftLineSensorVal = analogRead(leftLineSensor);
+	int rightLineSensorVal = analogRead(rightLineSensor);
+	Serial.print(leftLineSensorVal);
+	Serial.print(" - ");
+	Serial.println(rightLineSensorVal);
+	delay(500);
+}

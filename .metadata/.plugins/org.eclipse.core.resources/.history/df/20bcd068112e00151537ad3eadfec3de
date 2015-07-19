@@ -1,0 +1,41 @@
+// Do not remove the include below
+#include "Ultrasonic.h"
+#include <Arduino.h>
+
+const int pingOutputEchoPin = A4;
+const int trigInputEchoPin = A5;
+const int leftMotor = 0xD2;
+const int rightMotor = 0xD4;
+
+const int CMVCONV = 59;
+
+//The setup function is called once at startup of the sketch
+void setup() {
+	Serial.begin(9600);
+	pinMode(pingOutputEchoPin, OUTPUT);
+	pinMode(leftMotor, OUTPUT);
+	pinMode(rightMotor, OUTPUT);
+}
+
+// The loop function is called in an endless loop
+void loop() {
+	int distance = getDistance();
+	if (distance > 10) {
+		digitalWrite(leftMotor, HIGH);
+		digitalWrite(rightMotor, HIGH);
+	} else {
+
+	}
+	delay(100);
+}
+
+int getDistance() {
+	digitalWrite(pingOutputEchoPin, LOW);
+	delayMicroseconds(2);
+	digitalWrite(pingOutputEchoPin, HIGH);
+	delayMicroseconds(5);
+	digitalWrite(pingOutputEchoPin, LOW);
+
+	int duration = pulseIn(trigInputEchoPin, HIGH);
+	return duration / CMVCONV;
+}

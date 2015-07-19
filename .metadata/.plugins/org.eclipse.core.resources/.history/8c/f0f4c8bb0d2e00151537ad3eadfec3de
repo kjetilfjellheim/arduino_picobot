@@ -1,0 +1,30 @@
+// Do not remove the include below
+#include "Ultrasonic.h"
+#include <Arduino.h>
+
+int centimeters = 0;
+const int pingOutputEchoPin = A4;
+const int trigInputEchoPin = A5;
+
+//The setup function is called once at startup of the sketch
+void setup()
+{
+	Serial.begin(9600);
+}
+
+// The loop function is called in an endless loop
+void loop()
+{
+	  pinMode(trigPin, OUTPUT);
+	  digitalWrite(trigPin, LOW);
+	  delayMicroseconds(2);
+	  digitalWrite(trigPin, HIGH);
+	  delayMicroseconds(10);
+	  digitalWrite(trigPin, LOW);
+
+	  duration = pulseIn(echoPin, HIGH);
+
+	  Serial.print(centimeters);
+	  Serial.print("cm");
+	  Serial.println();
+}

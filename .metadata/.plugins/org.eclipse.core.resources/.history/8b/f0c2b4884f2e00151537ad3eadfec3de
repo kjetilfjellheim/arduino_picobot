@@ -1,0 +1,20 @@
+// Do not remove the include below
+#include "FollowLight.h"
+#include <Arduino.h>
+
+const int LDR_LEFT = A0;
+const int LDR_RIGHT = A1;
+
+//The setup function is called once at startup of the sketch
+void setup()
+{
+	Serial.set
+	digitalWrite(A0, OUTPUT);
+	digitalWrite(A1, OUTPUT);
+}
+
+// The loop function is called in an endless loop
+void loop()
+{
+
+}

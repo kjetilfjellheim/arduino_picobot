@@ -1,0 +1,49 @@
+// Do not remove the include below
+#include "Ultrasonic.h"
+#include <Arduino.h>
+
+const int leftLineSensor = A6;
+const int rightLineSensor = A7;
+const int leftMotor = 2;
+const int leftPWMMotor = 3;
+const int rightMotor = 4;
+const int rightPWMMotor = 5;
+
+const int CMVCONV = 59;
+
+//The setup function is called once at startup of the sketch
+void setup() {
+	Serial.begin(9600);
+	pinMode(leftLineSensor, OUTPUT);
+	pinMode(leftMotor, OUTPUT);
+	pinMode(leftPWMMotor, OUTPUT);
+	pinMode(rightMotor, OUTPUT);
+	pinMode(rightPWMMotor, OUTPUT);
+
+}
+
+// The loop function is called in an endless loop
+void loop() {
+	int distance = getDistance();
+	if (distance > 10) {
+		digitalWrite(leftMotor, LOW);
+		digitalWrite(leftPWMMotor, true);
+		digitalWrite(rightMotor, HIGH);
+		digitalWrite(rightPWMMotor, false);
+	} else {
+		digitalWrite(leftMotor, HIGH);
+		digitalWrite(rightMotor, LOW);
+	}
+	delay(100);
+}
+
+int getDistance() {
+	digitalWrite(pingOutputEchoPin, LOW);
+	delayMicroseconds(2);
+	digitalWrite(pingOutputEchoPin, HIGH);
+	delayMicroseconds(5);
+	digitalWrite(pingOutputEchoPin, LOW);
+
+	int duration = pulseIn(trigInputEchoPin, HIGH);
+	return duration / CMVCONV;
+}

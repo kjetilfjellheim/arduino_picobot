@@ -1,0 +1,44 @@
+23:13:54 **** Incremental Build of configuration Release for project FollowLight ****
+make all 
+Building file: ../FollowLight.cpp
+Starting C++ compile
+"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-g++" -c -g -Os -fno-exceptions -ffunction-sections -fdata-sections -MMD -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=155-r2 -DARDUINO_AVR_UNO -DARDUINO_ARCH_AVR    -I"C:\apps\arduino-1.5.5-r2\hardware\arduino\avr\cores\arduino" -I"C:\apps\arduino-1.5.5-r2\hardware\arduino\avr\variants\standard" -MMD -MP -MF"FollowLight.cpp.d" -MT"FollowLight.cpp.d" -D__IN_ECLIPSE__=1 -x c++ "../FollowLight.cpp"  -o  "FollowLight.cpp.o"   -Wall
+Finished building: ../FollowLight.cpp
+ 
+Starting combiner
+"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-gcc" -Os -Wl,--gc-sections -mmcu=atmega328p -o "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf"    ./FollowLight.cpp.o   D:/code/githubrepos/arduino/FollowLight/Release/arduino.ar   "D:/code/githubrepos/arduino/FollowLight/Release/arduino.ar" "-LD:/code/githubrepos/arduino/FollowLight/Release" -lm
+Finished building: FollowLight.elf
+ 
+Create eeprom image
+"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-objcopy" -O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0 "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf" "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.eep"
+Finished building: FollowLight.eep
+ 
+Create Flash image (ihex format)
+"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-objcopy" -O ihex -R .eeprom "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf" "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.hex"
+Finished building: FollowLight.hex
+ 
+Building target: FollowLight
+Printing size:
+"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-size" -A "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf"
+D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf  :
+section            size      addr
+.data                18   8388864
+.text              3020         0
+.bss                171   8388882
+.debug_aranges     1600         0
+.debug_pubnames    3586         0
+.debug_info       30344         0
+.debug_abbrev      5124         0
+.debug_line       14720         0
+.debug_frame       2784         0
+.debug_str         7071         0
+.debug_loc        17797         0
+.debug_ranges      1520         0
+Total             87755
+
+
+Finished building target: FollowLight
+ 
+
+23:13:54 Build Finished (took 635ms)
+

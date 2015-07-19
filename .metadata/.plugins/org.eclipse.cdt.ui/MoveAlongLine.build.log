@@ -1,0 +1,27 @@
+21:56:57 **** Incremental Build of configuration Release for project MoveAlongLine ****
+make all 
+Building target: MoveAlongLine
+Printing size:
+"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-size" -A "D:/code/githubrepos/arduino/MoveAlongLine/Release/MoveAlongLine.elf"
+D:/code/githubrepos/arduino/MoveAlongLine/Release/MoveAlongLine.elf  :
+section            size      addr
+.data                22   8388864
+.text              2868         0
+.bss                171   8388886
+.debug_aranges     1560         0
+.debug_pubnames    3540         0
+.debug_info       29455         0
+.debug_abbrev      4831         0
+.debug_line       14078         0
+.debug_frame       2736         0
+.debug_str         6834         0
+.debug_loc        17132         0
+.debug_ranges      1488         0
+Total             84715
+
+
+Finished building target: MoveAlongLine
+ 
+
+21:56:58 Build Finished (took 229ms)
+

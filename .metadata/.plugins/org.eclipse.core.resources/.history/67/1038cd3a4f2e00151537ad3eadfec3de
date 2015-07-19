@@ -1,0 +1,16 @@
+// Do not remove the include below
+#include "FollowLight.h"
+
+const int LDR_LEFT = A0;
+const int LDR_RIGHT = A1;
+
+//The setup function is called once at startup of the sketch
+void setup()
+{
+
+}
+
+// The loop function is called in an endless loop
+void loop()
+{
+}

@@ -1,0 +1,2175 @@
+!SESSION 2015-07-19 12:56:54.464 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=no_NO
+Framework arguments:  -perspective it.baeyens.arduino.application.perspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -perspective it.baeyens.arduino.application.perspective
+
+This is a continuation of log file D:\code\githubrepos\arduino\.metadata\.bak_0.log
+Created Time: 2015-07-19 16:42:31.032
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.033
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.064
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.095
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.126
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.158
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.189
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.220
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.251
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.282
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.313
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.344
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.375
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.406
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.437
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.468
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.499
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.530
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.561
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.592
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.623
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.654
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.685
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.716
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.747
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.778
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.809
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.840
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.871
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.902
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.933
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.964
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:31.995
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.026
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.057
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.088
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.119
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.150
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.181
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.212
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.243
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.274
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.305
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.336
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.367
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.398
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.429
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.460
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.491
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.522
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.553
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.584
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.616
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.647
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.678
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.709
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.740
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.771
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.802
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.833
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.864
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.895
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.926
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.957
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:32.988
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.019
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.050
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.081
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.112
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.143
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.174
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.216
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.247
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.278
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.309
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.340
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.371
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.402
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.431
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.462
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.493
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.524
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.555
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.586
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.617
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.648
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.679
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.710
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.741
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.772
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.803
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.834
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.865
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.896
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.927
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.958
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:33.989
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.020
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.051
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.082
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.113
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.144
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.175
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.206
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.237
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.268
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.299
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.330
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.361
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.392
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.423
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.454
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.485
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.575
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.607
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.638
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.669
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.700
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.731
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.762
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 16:42:34.793
+!MESSAGE Error inside Serial. serialEvent
+!STACK 0
+java.io.IOException: Bad file descriptor in nativeavailable
+	at gnu.io.RXTXPort.nativeavailable(Native Method)
+	at gnu.io.RXTXPort$SerialInputStream.available(RXTXPort.java:1470)
+	at it.baeyens.arduino.arduino.Serial.serialEvent(Serial.java:455)
+	at gnu.io.RXTXPort.sendEvent(RXTXPort.java:741)
+	at gnu.io.RXTXPort.eventLoop(Native Method)
+	at gnu.io.RXTXPort$MonitorThread.run(RXTXPort.java:1511)
+
+!ENTRY it.baeyens.core 4 0 2015-07-19 17:17:51.290
+!MESSAGE Error parsing C:/apps/arduino-1.5.5-r2/hardware/arduino/sam/platform.txt or C:/apps/arduino-1.5.5-r2/hardware/arduino/sam/boards.txt
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.tools.ArduinoHelpers.setTheEnvironmentVariablesAddtheBoardsTxt(ArduinoHelpers.java:659)
+	at it.baeyens.arduino.tools.ArduinoHelpers.setTheEnvironmentVariables(ArduinoHelpers.java:791)
+	at it.baeyens.arduino.ui.ArduinoSelectionPage.saveAllSelections(ArduinoSelectionPage.java:385)
+	at it.baeyens.arduino.ui.ArduinoSelectionPage.saveAllSelections(ArduinoSelectionPage.java:340)
+	at it.baeyens.arduino.ui.ArduinoSelectionPage.performApply(ArduinoSelectionPage.java:309)
+	at org.eclipse.cdt.ui.newui.AbstractCPropertyTab.handleTabEvent(AbstractCPropertyTab.java:553)
+	at org.eclipse.cdt.ui.newui.AbstractPage.forEach(AbstractPage.java:1059)
+	at org.eclipse.cdt.ui.newui.AbstractPage$5.run(AbstractPage.java:673)
+	at org.eclipse.ui.actions.WorkspaceModifyDelegatingOperation.execute(WorkspaceModifyDelegatingOperation.java:69)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.ui.internal.progress.ProgressManager$RunnableWithStatus.run(ProgressManager.java:1380)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.progress.ProgressManager$5.run(ProgressManager.java:1214)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734)
+	at org.eclipse.ui.internal.progress.ProgressManager.runInUI(ProgressManager.java:1211)
+	at org.eclipse.cdt.ui.newui.AbstractPage.performSave(AbstractPage.java:692)
+	at org.eclipse.cdt.ui.newui.AbstractPage.performApply(AbstractPage.java:545)
+	at org.eclipse.jface.preference.PreferencePage$2.widgetSelected(PreferencePage.java:284)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:160)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY it.baeyens.core 4 0 2015-07-19 17:17:54.795
+!MESSAGE Error parsing C:/apps/arduino-1.5.5-r2/hardware/arduino/avr/platform.txt or C:/apps/arduino-1.5.5-r2/hardware/arduino/avr/boards.txt
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.tools.ArduinoHelpers.setTheEnvironmentVariablesAddtheBoardsTxt(ArduinoHelpers.java:659)
+	at it.baeyens.arduino.tools.ArduinoHelpers.setTheEnvironmentVariables(ArduinoHelpers.java:791)
+	at it.baeyens.arduino.ui.ArduinoSelectionPage.saveAllSelections(ArduinoSelectionPage.java:385)
+	at it.baeyens.arduino.ui.ArduinoSelectionPage.saveAllSelections(ArduinoSelectionPage.java:340)
+	at it.baeyens.arduino.ui.ArduinoSelectionPage.performApply(ArduinoSelectionPage.java:309)
+	at org.eclipse.cdt.ui.newui.AbstractCPropertyTab.handleTabEvent(AbstractCPropertyTab.java:553)
+	at org.eclipse.cdt.ui.newui.AbstractPage.forEach(AbstractPage.java:1059)
+	at org.eclipse.cdt.ui.newui.AbstractPage$5.run(AbstractPage.java:673)
+	at org.eclipse.ui.actions.WorkspaceModifyDelegatingOperation.execute(WorkspaceModifyDelegatingOperation.java:69)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.ui.internal.progress.ProgressManager$RunnableWithStatus.run(ProgressManager.java:1380)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.progress.ProgressManager$5.run(ProgressManager.java:1214)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734)
+	at org.eclipse.ui.internal.progress.ProgressManager.runInUI(ProgressManager.java:1211)
+	at org.eclipse.cdt.ui.newui.AbstractPage.performSave(AbstractPage.java:692)
+	at org.eclipse.cdt.ui.newui.AbstractPage.performApply(AbstractPage.java:545)
+	at org.eclipse.jface.preference.PreferencePage$2.widgetSelected(PreferencePage.java:284)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:160)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.cdt.core 4 0 2015-07-19 21:32:42.601
+!MESSAGE Exception trying register listener it.baeyens.arduino.languageSettingsProvider
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.toolchain.ArduinoLanguageProvider.getCompilerCommand(ArduinoLanguageProvider.java:144)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.resolveCommand(AbstractBuiltinSpecsDetector.java:308)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.calculateEnvHash(AbstractBuiltinSpecsDetector.java:422)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.validateEnvironment(AbstractBuiltinSpecsDetector.java:466)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.execute(AbstractBuiltinSpecsDetector.java:481)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.registerListener(AbstractBuiltinSpecsDetector.java:375)
+	at org.eclipse.cdt.internal.core.language.settings.providers.LanguageSettingsProvidersSerializer.reRegisterListeners(LanguageSettingsProvidersSerializer.java:1375)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.setCurrentDescription(XmlProjectDescriptionStorage.java:386)
+	at org.eclipse.cdt.internal.core.settings.model.SetCProjectDescriptionOperation.executeOperation(SetCProjectDescriptionOperation.java:137)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:341)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:607)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:638)
+	at org.eclipse.cdt.internal.core.settings.model.AbstractCProjectDescriptionStorage.setProjectDescription(AbstractCProjectDescriptionStorage.java:203)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionStorageManager.setProjectDescription(CProjectDescriptionStorageManager.java:149)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:873)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:834)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:828)
+	at it.baeyens.arduino.tools.ShouldHaveBeenInCDT.setCProjectDescription(ShouldHaveBeenInCDT.java:113)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.createProject(NewArduinoSketchWizard.java:238)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard$2.execute(NewArduinoSketchWizard.java:180)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1059)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.performFinish(NewArduinoSketchWizard.java:187)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.navigator.wizards.WizardShortcutAction.run(WizardShortcutAction.java:98)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.cdt.core 4 0 2015-07-19 21:32:42.662
+!MESSAGE Exception trying register listener it.baeyens.arduino.languageSettingsProvider
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.toolchain.ArduinoLanguageProvider.getCompilerCommand(ArduinoLanguageProvider.java:144)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.resolveCommand(AbstractBuiltinSpecsDetector.java:308)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.calculateEnvHash(AbstractBuiltinSpecsDetector.java:422)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.validateEnvironment(AbstractBuiltinSpecsDetector.java:466)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.execute(AbstractBuiltinSpecsDetector.java:481)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.registerListener(AbstractBuiltinSpecsDetector.java:375)
+	at org.eclipse.cdt.internal.core.language.settings.providers.LanguageSettingsProvidersSerializer.reRegisterListeners(LanguageSettingsProvidersSerializer.java:1375)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.setCurrentDescription(XmlProjectDescriptionStorage.java:386)
+	at org.eclipse.cdt.internal.core.settings.model.SetCProjectDescriptionOperation.executeOperation(SetCProjectDescriptionOperation.java:137)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:341)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:607)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:638)
+	at org.eclipse.cdt.internal.core.settings.model.AbstractCProjectDescriptionStorage.setProjectDescription(AbstractCProjectDescriptionStorage.java:203)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionStorageManager.setProjectDescription(CProjectDescriptionStorageManager.java:149)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:873)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:834)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.createProject(NewArduinoSketchWizard.java:305)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard$2.execute(NewArduinoSketchWizard.java:180)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1059)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.performFinish(NewArduinoSketchWizard.java:187)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.navigator.wizards.WizardShortcutAction.run(WizardShortcutAction.java:98)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-07-19 21:32:43.086
+!MESSAGE Indexed 'AllLEDS' (22 sources, 25 headers) in 0.38 sec: 1,484 declarations; 2,695 references; 64 unresolved inclusions; 27 syntax errors; 604 unresolved names (13%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2015-07-19 21:35:06.486
+!MESSAGE Exception trying register listener it.baeyens.arduino.languageSettingsProvider
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.toolchain.ArduinoLanguageProvider.getCompilerCommand(ArduinoLanguageProvider.java:144)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.resolveCommand(AbstractBuiltinSpecsDetector.java:308)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.calculateEnvHash(AbstractBuiltinSpecsDetector.java:422)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.validateEnvironment(AbstractBuiltinSpecsDetector.java:466)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.execute(AbstractBuiltinSpecsDetector.java:481)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.registerListener(AbstractBuiltinSpecsDetector.java:375)
+	at org.eclipse.cdt.internal.core.language.settings.providers.LanguageSettingsProvidersSerializer.reRegisterListeners(LanguageSettingsProvidersSerializer.java:1375)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.setCurrentDescription(XmlProjectDescriptionStorage.java:386)
+	at org.eclipse.cdt.internal.core.settings.model.SetCProjectDescriptionOperation.executeOperation(SetCProjectDescriptionOperation.java:137)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:341)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:607)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:638)
+	at org.eclipse.cdt.internal.core.settings.model.AbstractCProjectDescriptionStorage.setProjectDescription(AbstractCProjectDescriptionStorage.java:203)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionStorageManager.setProjectDescription(CProjectDescriptionStorageManager.java:149)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:873)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:834)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:828)
+	at it.baeyens.arduino.tools.ShouldHaveBeenInCDT.setCProjectDescription(ShouldHaveBeenInCDT.java:113)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.createProject(NewArduinoSketchWizard.java:238)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard$2.execute(NewArduinoSketchWizard.java:180)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1059)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.performFinish(NewArduinoSketchWizard.java:187)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:269)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:290)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:247)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:229)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:149)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:343)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:159)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.cdt.core 4 0 2015-07-19 21:35:06.542
+!MESSAGE Exception trying register listener it.baeyens.arduino.languageSettingsProvider
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.toolchain.ArduinoLanguageProvider.getCompilerCommand(ArduinoLanguageProvider.java:144)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.resolveCommand(AbstractBuiltinSpecsDetector.java:308)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.calculateEnvHash(AbstractBuiltinSpecsDetector.java:422)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.validateEnvironment(AbstractBuiltinSpecsDetector.java:466)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.execute(AbstractBuiltinSpecsDetector.java:481)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.registerListener(AbstractBuiltinSpecsDetector.java:375)
+	at org.eclipse.cdt.internal.core.language.settings.providers.LanguageSettingsProvidersSerializer.reRegisterListeners(LanguageSettingsProvidersSerializer.java:1375)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.setCurrentDescription(XmlProjectDescriptionStorage.java:386)
+	at org.eclipse.cdt.internal.core.settings.model.SetCProjectDescriptionOperation.executeOperation(SetCProjectDescriptionOperation.java:137)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:341)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:607)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:638)
+	at org.eclipse.cdt.internal.core.settings.model.AbstractCProjectDescriptionStorage.setProjectDescription(AbstractCProjectDescriptionStorage.java:203)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionStorageManager.setProjectDescription(CProjectDescriptionStorageManager.java:149)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:873)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:834)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.createProject(NewArduinoSketchWizard.java:305)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard$2.execute(NewArduinoSketchWizard.java:180)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1059)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.performFinish(NewArduinoSketchWizard.java:187)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:269)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:290)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:247)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:229)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:149)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:343)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:159)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-07-19 21:35:07.028
+!MESSAGE Indexed 'AllLEDS' (22 sources, 26 headers) in 0.305 sec: 1,486 declarations; 2,698 references; 64 unresolved inclusions; 27 syntax errors; 604 unresolved names (13%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2015-07-19 21:42:14.794
+!MESSAGE Exception trying register listener it.baeyens.arduino.languageSettingsProvider
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.toolchain.ArduinoLanguageProvider.getCompilerCommand(ArduinoLanguageProvider.java:144)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.resolveCommand(AbstractBuiltinSpecsDetector.java:308)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.calculateEnvHash(AbstractBuiltinSpecsDetector.java:422)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.validateEnvironment(AbstractBuiltinSpecsDetector.java:466)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.execute(AbstractBuiltinSpecsDetector.java:481)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.registerListener(AbstractBuiltinSpecsDetector.java:375)
+	at org.eclipse.cdt.internal.core.language.settings.providers.LanguageSettingsProvidersSerializer.reRegisterListeners(LanguageSettingsProvidersSerializer.java:1375)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.setCurrentDescription(XmlProjectDescriptionStorage.java:386)
+	at org.eclipse.cdt.internal.core.settings.model.SetCProjectDescriptionOperation.executeOperation(SetCProjectDescriptionOperation.java:137)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:341)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:607)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:638)
+	at org.eclipse.cdt.internal.core.settings.model.AbstractCProjectDescriptionStorage.setProjectDescription(AbstractCProjectDescriptionStorage.java:203)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionStorageManager.setProjectDescription(CProjectDescriptionStorageManager.java:149)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:873)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:834)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:828)
+	at it.baeyens.arduino.tools.ShouldHaveBeenInCDT.setCProjectDescription(ShouldHaveBeenInCDT.java:113)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.createProject(NewArduinoSketchWizard.java:238)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard$2.execute(NewArduinoSketchWizard.java:180)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1059)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.performFinish(NewArduinoSketchWizard.java:187)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.navigator.wizards.WizardShortcutAction.run(WizardShortcutAction.java:98)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.cdt.core 4 0 2015-07-19 21:42:14.863
+!MESSAGE Exception trying register listener it.baeyens.arduino.languageSettingsProvider
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.toolchain.ArduinoLanguageProvider.getCompilerCommand(ArduinoLanguageProvider.java:144)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.resolveCommand(AbstractBuiltinSpecsDetector.java:308)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.calculateEnvHash(AbstractBuiltinSpecsDetector.java:422)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.validateEnvironment(AbstractBuiltinSpecsDetector.java:466)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.execute(AbstractBuiltinSpecsDetector.java:481)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.registerListener(AbstractBuiltinSpecsDetector.java:375)
+	at org.eclipse.cdt.internal.core.language.settings.providers.LanguageSettingsProvidersSerializer.reRegisterListeners(LanguageSettingsProvidersSerializer.java:1375)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.setCurrentDescription(XmlProjectDescriptionStorage.java:386)
+	at org.eclipse.cdt.internal.core.settings.model.SetCProjectDescriptionOperation.executeOperation(SetCProjectDescriptionOperation.java:137)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:341)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:607)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:638)
+	at org.eclipse.cdt.internal.core.settings.model.AbstractCProjectDescriptionStorage.setProjectDescription(AbstractCProjectDescriptionStorage.java:203)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionStorageManager.setProjectDescription(CProjectDescriptionStorageManager.java:149)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:873)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:834)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.createProject(NewArduinoSketchWizard.java:305)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard$2.execute(NewArduinoSketchWizard.java:180)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1059)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.performFinish(NewArduinoSketchWizard.java:187)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.navigator.wizards.WizardShortcutAction.run(WizardShortcutAction.java:98)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-07-19 21:42:15.300
+!MESSAGE Indexed 'FollowLight' (22 sources, 25 headers) in 0.255 sec: 1,484 declarations; 2,695 references; 64 unresolved inclusions; 27 syntax errors; 604 unresolved names (13%)
+
+!ENTRY org.eclipse.cdt.core 4 0 2015-07-19 21:42:43.737
+!MESSAGE Exception trying register listener it.baeyens.arduino.languageSettingsProvider
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.toolchain.ArduinoLanguageProvider.getCompilerCommand(ArduinoLanguageProvider.java:144)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.resolveCommand(AbstractBuiltinSpecsDetector.java:308)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.calculateEnvHash(AbstractBuiltinSpecsDetector.java:422)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.validateEnvironment(AbstractBuiltinSpecsDetector.java:466)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.execute(AbstractBuiltinSpecsDetector.java:481)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.registerListener(AbstractBuiltinSpecsDetector.java:375)
+	at org.eclipse.cdt.internal.core.language.settings.providers.LanguageSettingsProvidersSerializer.reRegisterListeners(LanguageSettingsProvidersSerializer.java:1375)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.setCurrentDescription(XmlProjectDescriptionStorage.java:386)
+	at org.eclipse.cdt.internal.core.settings.model.SetCProjectDescriptionOperation.executeOperation(SetCProjectDescriptionOperation.java:137)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:341)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:607)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:638)
+	at org.eclipse.cdt.internal.core.settings.model.AbstractCProjectDescriptionStorage.setProjectDescription(AbstractCProjectDescriptionStorage.java:203)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionStorageManager.setProjectDescription(CProjectDescriptionStorageManager.java:149)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:873)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:834)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:828)
+	at it.baeyens.arduino.tools.ShouldHaveBeenInCDT.setCProjectDescription(ShouldHaveBeenInCDT.java:113)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.createProject(NewArduinoSketchWizard.java:238)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard$2.execute(NewArduinoSketchWizard.java:180)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1059)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.performFinish(NewArduinoSketchWizard.java:187)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:269)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:290)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:247)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:229)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:149)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:343)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:159)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.cdt.core 4 0 2015-07-19 21:42:43.794
+!MESSAGE Exception trying register listener it.baeyens.arduino.languageSettingsProvider
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.toolchain.ArduinoLanguageProvider.getCompilerCommand(ArduinoLanguageProvider.java:144)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.resolveCommand(AbstractBuiltinSpecsDetector.java:308)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.calculateEnvHash(AbstractBuiltinSpecsDetector.java:422)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.validateEnvironment(AbstractBuiltinSpecsDetector.java:466)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.execute(AbstractBuiltinSpecsDetector.java:481)
+	at org.eclipse.cdt.managedbuilder.language.settings.providers.AbstractBuiltinSpecsDetector.registerListener(AbstractBuiltinSpecsDetector.java:375)
+	at org.eclipse.cdt.internal.core.language.settings.providers.LanguageSettingsProvidersSerializer.reRegisterListeners(LanguageSettingsProvidersSerializer.java:1375)
+	at org.eclipse.cdt.internal.core.settings.model.xml.XmlProjectDescriptionStorage.setCurrentDescription(XmlProjectDescriptionStorage.java:386)
+	at org.eclipse.cdt.internal.core.settings.model.SetCProjectDescriptionOperation.executeOperation(SetCProjectDescriptionOperation.java:137)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.execute(CModelOperation.java:341)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.run(CModelOperation.java:607)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:638)
+	at org.eclipse.cdt.internal.core.settings.model.AbstractCProjectDescriptionStorage.setProjectDescription(AbstractCProjectDescriptionStorage.java:203)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionStorageManager.setProjectDescription(CProjectDescriptionStorageManager.java:149)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:873)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:834)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.createProject(NewArduinoSketchWizard.java:305)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard$2.execute(NewArduinoSketchWizard.java:180)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1059)
+	at it.baeyens.arduino.ui.NewArduinoSketchWizard.performFinish(NewArduinoSketchWizard.java:187)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:853)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:438)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:619)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+	at org.eclipse.jface.window.Window.open(Window.java:808)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:269)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:290)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:294)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor37.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:247)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:229)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:149)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:343)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:159)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-07-19 21:42:44.238
+!MESSAGE Indexed 'FollowLight' (22 sources, 26 headers) in 0.251 sec: 1,486 declarations; 2,698 references; 64 unresolved inclusions; 27 syntax errors; 604 unresolved names (13%)
+
+!ENTRY org.eclipse.ui 4 0 2015-07-19 21:53:42.422
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at it.baeyens.arduino.arduino.Serial.dispose(Serial.java:235)
+	at it.baeyens.arduino.monitor.views.SerialMonitor$9.run(SerialMonitor.java:395)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$6.handleEvent(ActionContributionItem.java:462)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 22:54:04.019
+!MESSAGE Serial port COM6 not found. Did you select the right one from the project properties -> Arduino -> Arduino?
+
+!ENTRY it.baeyens.core 2 0 2015-07-19 22:54:04.019
+!MESSAGE Unable to open Serial port COM6

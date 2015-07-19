@@ -1,0 +1,51 @@
+// Do not remove the include below
+#include "FollowLight.h"
+#include <Arduino.h>
+
+const int LDR_LEFT = A0;
+const int LDR_RIGHT = A1;
+
+const int LEFTMOTOR = 2;
+const int LEFTMOTORPWM = 3;
+const int RIGHTMOTOR = 4;
+const int RIGHTMOTORPWM = 5;
+
+const int LIGHT_DETECTION_LEVEL = 300;
+
+//The setup function is called once at startup of the sketch
+void setup()
+{
+	Serial.begin(9600);
+	digitalWrite(A0, INPUT_PULLUP);
+	digitalWrite(A1, INPUT_PULLUP);
+
+	pinMode(LEFTMOTOR, OUTPUT);
+	pinMode(LEFTMOTORPWM, OUTPUT);
+	pinMode(RIGHTMOTOR, OUTPUT);
+	pinMode(RIGHTMOTORPWM, OUTPUT);
+}
+
+// The loop function is called in an endless loop
+void loop()
+{
+	int leftLDRSensorVal = analogRead(LDR_LEFT);
+	int rightLDRSensorVal = analogRead(LDR_RIGHT);
+
+	if (leftLDRSensorVal < LIGHT_DETECTION_LEVEL)
+	{
+		digitalWrite(RIGHTMOTOR, HIGH);
+		digitalWrite(RIGHTMOTORPWM, LOW);
+	} else {
+		digitalWrite(RIGHTMOTOR, LOW);
+		digitalWrite(RIGHTMOTORPWM, LOW);
+	}
+
+	if (rightLDRSensorVal < LIGHT_DETECTION_LEVEL)
+	{
+		digitalWrite(LEFTMOTOR, LOW);
+		digitalWrite(LEFTMOTORPWM, HIGH);
+	} else {
+		digitalWrite(LEFTMOTOR, LOW);
+		digitalWrite(LEFTMOTORPWM, LOW);
+	}
+}
