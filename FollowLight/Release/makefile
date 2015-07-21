@@ -9,7 +9,6 @@ RM := rm -rf
 # All of the sources participating in the build are defined here
 -include sources.mk
 -include subdir.mk
--include arduino/core/avr-libc/subdir.mk
 -include arduino/core/subdir.mk
 -include objects.mk
 
@@ -69,31 +68,31 @@ all: FollowLight
 FollowLight: $(FLASH_IMAGE)
 	@echo 'Building target: $@'
 	@echo 'Printing size:'
-	"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-size" -A "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf"
+	"C:\apps\Arduino164\hardware\tools\avr\bin\/avr-size" -A "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf"
 	@echo 'Finished building target: $@'
 	@echo ' '
 
 D:/code/githubrepos/arduino/FollowLight/Release/arduino.ar: $(AR_OBJ)
 	@echo 'Starting archiver'
-	"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-ar" rcs "D:/code/githubrepos/arduino/FollowLight/Release/arduino.ar"   $(AR_OBJ)
+	"C:\apps\Arduino164\hardware\tools\avr\bin\/avr-ar" rcs  "D:/code/githubrepos/arduino/FollowLight/Release/arduino.ar"   $(AR_OBJ)
 	@echo 'Finished building: $@'
 	@echo ' '
 
 FollowLight.elf: $(LINK_OBJ) $(AR)
 	@echo 'Starting combiner'
-	"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-gcc" -Os -Wl,--gc-sections -mmcu=atmega328p -o "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf"   $(LINK_OBJ) $(AR)  "D:/code/githubrepos/arduino/FollowLight/Release/arduino.ar" "-LD:/code/githubrepos/arduino/FollowLight/Release" -lm
+	"C:\apps\Arduino164\hardware\tools\avr\bin\/avr-gcc" -Os -Wl,--gc-sections -mmcu=atmega328p  -o "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf"   $(LINK_OBJ) $(AR)  "D:/code/githubrepos/arduino/FollowLight/Release/arduino.ar" "-LD:/code/githubrepos/arduino/FollowLight/Release" -lm
 	@echo 'Finished building: $@'
 	@echo ' '
 
 FollowLight.eep: $(ELF)
 	@echo 'Create eeprom image'
-	"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-objcopy" -O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0 "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf" "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.eep"
+	"C:\apps\Arduino164\hardware\tools\avr\bin\/avr-objcopy" -O ihex -j .eeprom --set-section-flags=.eeprom=alloc,load --no-change-warnings --change-section-lma .eeprom=0  "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf" "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.eep"
 	@echo 'Finished building: $@'
 	@echo ' '
 
 FollowLight.hex: $(EEP)
 	@echo 'Create Flash image (ihex format)'
-	"C:/apps/arduino-1.5.5-r2/hardware/tools/avr/bin/avr-objcopy" -O ihex -R .eeprom "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf" "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.hex"
+	"C:\apps\Arduino164\hardware\tools\avr\bin\/avr-objcopy" -O ihex -R .eeprom  "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.elf" "D:/code/githubrepos/arduino/FollowLight/Release/FollowLight.hex"
 	@echo 'Finished building: $@'
 	@echo ' '
 
